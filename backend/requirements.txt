@@ -1,0 +1,18 @@
+fastapi
+uvicorn[standard]
+pydantic
+speechbrain
+vosk
+librosa
+torchaudio
+numpy
+python-multipart
+aiofiles
+
+# Dev dependencies
+black
+flake8
+isort
+pytest
+pytest-asyncio
+httpx
